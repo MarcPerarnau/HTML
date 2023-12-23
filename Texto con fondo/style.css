@@ -1,0 +1,6 @@
+.heading{
+    background-image: url(orangutan_1600x1000_279157.jpg)center;
+    background-size: cover;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
